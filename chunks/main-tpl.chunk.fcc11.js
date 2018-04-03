@@ -1,0 +1,2 @@
+webpackJsonp([2],{195:function(e,n){e.exports='\r\n<div>Helllo 我是main页</div>\r\n<a href="#/home">去home页</a>\r\n<input type="text" class="timeone" ngtimeone>\r\n'}});
+//# sourceMappingURL=main-tpl.chunk.fcc11.js.map

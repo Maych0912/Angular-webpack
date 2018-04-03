@@ -1,0 +1,2 @@
+webpackJsonp([5],{190:function(o,e,n){"use strict";o.exports=angular.module("app.home").controller("homeCtrl",["homeServiceData","$rootScope","$scope",function(o,e,n){var t=this;n.abc=123,t.test=function(){console.log(this.name),console.log(o.mark)},console.log(t),console.log(n),console.log(e),setTimeout(function(){e.$emit("mark","hello mark")},5e3)}]).service("homeServiceData",[function(){return{mark:"12123456789"}}]).name,console.log(o.exports)}});
+//# sourceMappingURL=home-ctl.chunk.2c682.js.map
